@@ -107,12 +107,12 @@ Now inputting the given key, we now get the recovered contents of the poor guy's
 
 ![That was easy...](images/verytough.png)
 
-I have to admit, that was not tough at all.
+Yep, yep, yeah. I have to admit, that was not tough at all.
 
-The flag is directly in the binary, wow. It is "bkctf{r4mm1n6_u5_up_w17h_th35e_pr1c35}"
+The flag is directly in the binary, wow. It is `bkctf{r4mm1n6_u5_up_w17h_th35e_pr1c35}`
 
 ## In conclusion...
-This challenge was quite fun and challenging, with some unique parts, a nice amount of XOR usage, and some great humour. Shout out to Laptic, the challenge's creator, and Vector 35 for Binary Ninja, the decompiler and debugger that carried me throughout this challenge and into BKCTF. I hope that this poor guy learns to not download RAM from the internet, and that RAM prices go down.
+This challenge was quite fun and challenging, with some unique parts, a nice amount of XOR usage, and some great humour. Shout out to Laptic, the challenge's creator, and Vector 35 for Binary Ninja, the decompiler and debugger that carried me throughout this challenge and into BKCTF (please give me a Binary Ninja licence, I did this challenge entirely on the free version). I hope that this poor guy learns to not download RAM from the internet, and that RAM prices go down.
 
 Love and peace from wumeno.
 
